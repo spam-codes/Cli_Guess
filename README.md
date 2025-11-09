@@ -11,3 +11,10 @@ Then install this CLI tool globally:
 ```bash
 cargo install --git https://github.com/spam-codes/Cli_Guess
 
+```
+Now you can run the game
+To Run:
+
+```bash
+Cli_Game
+
